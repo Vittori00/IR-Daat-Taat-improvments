@@ -49,19 +49,3 @@ This project implements both TAAT and DAAT strategies, evaluates their performan
 
 The project provides a detailed comparison of TAAT and DAAT strategies, including performance metrics and insights into their respective advantages and limitations. Optimization techniques are also evaluated to determine their impact on query processing efficiency.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-Special thanks to the contributors of related projects and the open-source community for their valuable resources and inspiration.
-
----
-
-*Note: This README is based on the available information and may need to be updated as the project evolves.*
-
